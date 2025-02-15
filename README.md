@@ -14,7 +14,7 @@
 - 💬 Ask me about **AWS, Kubernetes**
 - 📫 Reach me at **rohithgowthamg4927@gmail.com**
 - 📄 [Check out my resume](https://drive.google.com/file/d/1Vs2a3_Q9A7EKPbKLe1AyIBY_mc09o1CY/view?usp=sharing)
-- - 📄 [Check out my Portfolio](https://resume.rohithgowthamg.cloud)
+- 🚀 [Check out my Portfolio](https://resume.rohithgowthamg.cloud)
 
 ---
 
