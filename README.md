@@ -8,13 +8,10 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on **[Clickstream Analytics Pipeline on AWS](https://github.com/rohithgowthamg4927/clickweb)**
-- 🌱 Learning **AWS | Kubernetes | Docker | Terraform**
-- 🤝 Looking for help with **Microservices & Event-driven PDF to Word Converter**
-- 💬 Ask me about **AWS, Kubernetes**
+- 💬 Ask me about **AWS, Kubernetes, Docker**
 - 📫 Reach me at **rohithgowthamg4927@gmail.com**
 - 📄 [Check out my resume](https://drive.google.com/file/d/1Vs2a3_Q9A7EKPbKLe1AyIBY_mc09o1CY/view?usp=sharing)
-- 🚀 [Check out my Portfolio](https://resume.rohithgowthamg.cloud)
+- 🚀 [Check out my Portfolio](https://www.rohithgowthamg.cloud)
 
 ---
 
