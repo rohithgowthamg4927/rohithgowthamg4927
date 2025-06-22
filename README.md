@@ -95,7 +95,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithgowthamg4927&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="![rohithgowthamg4927's Stats](https://github-readme-stats.vercel.app/api?username=rohithgowthamg4927&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)" alt="Top Languages" />
 </p>
 
 ---
