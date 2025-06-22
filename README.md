@@ -95,9 +95,9 @@
 </p>
 
 <p align="center">
-  <img src="" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithgowthamg4927&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-✨ **Feel free to explore my repositories and reach out for collaboration!**
+ **Feel free to explore my repositories and reach out for collaboration!**
