@@ -90,12 +90,8 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="![rohithgowthamg4927's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohithgowthamg4927&theme=vue-dark&hide_border=false)" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="![rohithgowthamg4927's Stats](https://github-readme-stats.vercel.app/api?username=rohithgowthamg4927&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)" alt="Top Languages" />
+<p align="center">More actions
+  <img src="https://github-readme-stats.vercel.app/api?username=rohithgowthamg4927&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
