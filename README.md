@@ -91,7 +91,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohithgowthamg4927&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="![rohithgowthamg4927's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohithgowthamg4927&theme=vue-dark&hide_border=false)" alt="GitHub Stats" />
 </p>
 
 <p align="center">
